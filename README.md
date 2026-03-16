@@ -28,5 +28,3 @@
 5. **Run what‑if** for sowing date shifts (±5 days)
 6. **Compute SHAP values** for explainability
 7. **Generate advisory** based on optimal conditions and forecast
-
-## 📁 Project Structure
